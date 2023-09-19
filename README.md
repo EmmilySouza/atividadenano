@@ -1,1 +1,2 @@
 # atividadenano
+Primeiro é necessário ativar o nodejs colocando o seguinte código no terminal: "source ./nodejs-env/bin/activate" . Depois, copiando o código base que o professor disponibilizou, coloquei ele no terminal com o comando "sudo nano index.js" e colei mundando o nome "Hello word" para "Emmily Oliveira de Souza 19/09/20203" e também mudei a porta 5000 para 8007. Após salvar as alterações, escrevi o comando "node index.js" para ativar o arquivo. Para testar é necessário no Firefox colocar o ip, dois pontos e a porta, dessa maneira: "ip:porta".
